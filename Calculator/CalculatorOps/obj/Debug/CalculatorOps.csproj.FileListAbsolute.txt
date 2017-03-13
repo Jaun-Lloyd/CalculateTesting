@@ -1,0 +1,4 @@
+C:\Users\Jaun Lloyd\Documents\Visual Studio 2015\Projects\Calculator\CalculatorOps\bin\Debug\CalculatorOps.dll
+C:\Users\Jaun Lloyd\Documents\Visual Studio 2015\Projects\Calculator\CalculatorOps\bin\Debug\CalculatorOps.pdb
+C:\Users\Jaun Lloyd\Documents\Visual Studio 2015\Projects\Calculator\CalculatorOps\obj\Debug\CalculatorOps.dll
+C:\Users\Jaun Lloyd\Documents\Visual Studio 2015\Projects\Calculator\CalculatorOps\obj\Debug\CalculatorOps.pdb
